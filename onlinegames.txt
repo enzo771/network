@@ -1,0 +1,27 @@
+# Title: VL's online gaming hosts
+
+0.0.0.0 Battle.net
+0.0.0.0 Blizzard.com
+0.0.0.0 akamaihd.net
+0.0.0.0 akamaized.net
+0.0.0.0 azureedge.net
+0.0.0.0 bigbadtoystore.com
+0.0.0.0 callofduty.com
+0.0.0.0 demonware.net
+0.0.0.0 ea.com
+0.0.0.0 eneba.com
+0.0.0.0 epicgames.com
+0.0.0.0 ggpht.com
+0.0.0.0 gstatic.com
+0.0.0.0 joinhoney.com
+0.0.0.0 mmoga.de
+0.0.0.0 netflix.com
+0.0.0.0 origin.com
+0.0.0.0 pcgames.de
+0.0.0.0 pcgameshardware.de
+0.0.0.0 ttvnw.net
+0.0.0.0 twitch.tv
+0.0.0.0 twitchcdn.net
+0.0.0.0 twitchsvc.net
+0.0.0.0 unrealengine.com
+0.0.0.0 xboxlive.com
